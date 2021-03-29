@@ -1,0 +1,11 @@
+Clase 1
+¿Que es la computadora?
+Dispositivo electronico capaz de recibir instrucciones y ejecutarlas.
+
+Historia:
+1. Fue el abaco 1122 a.c.
+2. Pascalina 1642 d.c 
+3. Tarjetas perforadas 1801 
+4. Primera computadora en 1833-1844
+5. Primera generación 40's
+6. Windows/Apple/Linux 80's
