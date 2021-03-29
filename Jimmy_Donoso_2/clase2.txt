@@ -1,0 +1,27 @@
+¿Que es la terminal?
+Interfaz de línea de consola(CLI) es un programa presente en todos los sistemas computacionales.
+
+Comandos para navegación e interacción con ficheros:
+ 
+ De tipo informativo:
+ pwd / mostrar el nombre de la carpeta en la que uno esta ubicado
+ cd / nos permite navegar entre las carpetas
+ ls / listar el contenido de la carpeta en la que estamos
+
+ Crear o eliminar carpetas
+ mkdir / crea carpetas
+ rmdir / elimina carpetas
+
+ Crear o eliminar archivos
+ gedit / crea o edita archivos
+ touch / crear archivos en la terminal de windows
+ rm / elimina archivos
+
+ Copiar archivos y directorios
+ cp / copiar archivos/carpetas
+ cp-r / copia carpetas
+ lmv / mover carpeta
+
+ Adicionales:
+ clear / limpiar la terminal
+ nano / editor de archivos .txt
