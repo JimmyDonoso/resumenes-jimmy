@@ -1,0 +1,27 @@
+Github
+Es una plataforma online colaborativa que nos va a permitir llevar el control de versiones de nuestro codigo.
+
+Crear repositorio
+
+1. Hacemos clic en New
+2. Asignamos un nombre al repositorio
+3. Con el link que nos da Github de nuestro repositorio ,ingresamos el siguiente comando:
+    1. git clone linkDelRepo // Clonamos el repositoio en nuestro equipo
+
+Invitación a colaborar
+
+1. Revisar nuestro correo y dar clic en accept or decline
+2. Aceptamos la invitación
+3. Usamos el comando git clone y listo
+
+¿Que es una rama?
+Es una línea paralela para agregar funcionalidades sin afectar a la rama principal.
+
+
+NUEVOS COMANDOS
+git add -A // agrega a seguimiento los nuevos archivos que estan sin seguimiento
+git Branch -a ven todas las ramas que hay
+git branch nombre // creamos una rama
+git cheockout nombre voy a esa rama
+git branch -d nombre_rama //  para eliminar una rama
+git merge nombre_rama // fusiona la rama con la master
