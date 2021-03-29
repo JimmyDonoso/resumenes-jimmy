@@ -1,0 +1,41 @@
+Instalación de Git 
+ Es un software de control de versiones
+
+
+- Ubicarse en la carpeta y colocar el código: $ git init para crear el reposirotio local
+- Para agregar la identidad de uno:
+    - Primer código: $ git config [user.name](http://user.name) "mi-usuario"
+    - Agregamos el email: $ git config [user.email](http://user.email) "micorreo@gmail.com"
+
+Para cuándo quiera predeterminar está firma de forma definitiva desde MI compu agregar --global 
+
+$ git config --global [user.name](http://user.name) "usuario"
+$ git config --global [user.email](http://user.email) "correo"
+
+
+El comando para agregar archivos se llama git add
+
+    Otro útil es git status
+        Ejemplo:
+            *git add funsiones.js*
+Para agregar todos los archivos presentes en el repositorio agregar un punto al final de código *git add.*
+
+Commits:
+Confirmación a través de la cual le decimos al repositorio que los archivos que estamos creando los deseamos con un pequeño de detalles que tiene una marca indeleble de tiempo que incluyen al autor.
+
+$ git commit -m crear commits de un archivo(incluye fecha, autor y mensaje)
+
+COMANDOS NUEVOS:
+git init *// crea el repositorio*
+git config user.name "nombre de usuario" *// agrega nuestra identidad*
+git config user.email "nombreUsuario@email.com" *// agrega nuestro email*
+git remote add origin https: *//github.com/DH/RepoRemoto // agrega el repositorio remoto al local- apunta al repositorio remoto*
+git add . *// agrega todos los archivos*
+git status *// seguimiento del estado de los archivos*
+git commit -m "mensaje" *// comitea los cambios hechos*
+git log //podemos ver el historial de versiones
+git config - -list // lista la configuración general de la carpeta
+git push origin master(main) // envía los cambios al repositorio remoto
+git pull origin master // ACTUALIZARA los cambios que existen en el repositorio remoto
+git remote -v // indica al repositorio local con que repositorio remoto se debe de sincronizar
+git clone http:.......git // crea una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto
