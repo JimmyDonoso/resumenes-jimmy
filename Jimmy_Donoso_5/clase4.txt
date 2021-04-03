@@ -1,0 +1,41 @@
+CPU
+Procesa todas las tares recibidas
+
+- Buscar, leer y ejecutar, obtener resultados
+- A que velocidad se ejecutan estos procesos?
+    - Depende de la frecuencia, núcleos, subprocesos o hilos, memoria caché.
+    - Frecuencia(ciclos por segundo)
+    - Núcleos(core)(entre más núcleos más tareas a la vez se pueden ejecutar)
+    - Subprocesos o hilos(son las tareas que la cpu puede hacer al mismo tiempo)
+    - Memoria caché(nos permite almacenar temporalmente un conjunto de instrucciones en la ram)
+**CPU**
+
+La unidad central de procesamiento es el hardware dentro de un ordenador u otros dispositivos programables, su trabajo es interpretar las instrucciones de un programa informático.
+
+**GPU**
+
+Una unidad de procesamiento gráfico es un coprocesador dedicado al procesamiento de gráficos para aligerar la carga de trabajo del procesador central en aplicaciones, como los videojuegos o aplicaciones 3D interactivas.
+
+**RAM**
+
+En la memoria de acceso aleatorio se cargan todas las instrucciones que ejecuta la CPU y otras unidades del computador, además de contener los datos que manipulan los distintos programas.
+
+**Puente Norte**
+
+Es el chip que controla las funciones de acceso desde y hasta el CPU, PCI-Express, memoria RAM, vídeo integrado (dependiendo de la placa) y el puente sur.
+
+**Puente Sur**
+
+Es un chip que se encarga de coordinar los diferentes dispositivos de entrada y salida y algunas otras funcionalidades de baja velocidad. No está conectado a la CPU y se comunica con ella indirectamente a través del puente norte.
+
+**USB**
+
+El bus universal en serie es utilizado como estándar para conexión de periféricos. Se puede conectar con el teclado, el mouse, la memoria USB, el joystick, el escáner, la cámara digital, el celular, el reproductor multimedia, la impresora, el módem, la grabadora de DVD externa, el disco duro externo, entre otros.
+
+**Memoria Secundaria**
+
+Es un tipo de almacenamiento masivo y permanente con mayor capacidad para almacenar datos e información que la memoria primaria (RAM) que es volátil, aunque la memoria secundaria es de menor velocidad.
+
+**GPU**
+
+Una unidad de procesamiento gráfico o GPU es un coprocesador dedicado al procesamiento de gráficos, para aligerar la carga de trabajo del procesador central en aplicaciones como los videojuegos o aplicaciones 3D interactivas.
