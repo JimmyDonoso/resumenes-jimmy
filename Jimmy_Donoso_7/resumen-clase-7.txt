@@ -1,0 +1,50 @@
+Sistemas Operativos
+
+El sistema operativo es el soporte lógico que controla el funcionamiento del equipo físico.
+
+Se encarga de gestionar la memoria de acceso aleatorio y ejecutar las aplicaciones, designando los ercursos necesarios.
+Administrar la CPU
+Direccionar las entradas y salidad de datos , por medio de los perifericos de entrada y de salida. 
+Administrar los archivos.
+
+Los sistemas operativos varian según el hardware y la función de cada dispositivo.
+
+Según Usuario:
+-Multiusuario
+-Monousuario
+
+Según las tareas:
+-Multitarea
+-Monotarea
+
+Según los recursos:
+-Centralizado
+-Distribuido
+
+Según estructura interna:
+-Monolitica
+-Jerarquica
+-Maquina virtual
+--------------------------------------------------------------------------
+KERNEL
+El kernel es la capa fundamental de un sistema operativo, es el encargado de comunicar y administrar los recursos de la computadora, como la RAM o el uso del procesador.
+
+Tipos de KERNEL:
+- MONOLÍTICO:
+	El más veloz ya que se comunica con llamadas al sistema.
+	El 70% de kernel no es utilizado.
+	Si un sistema falla, todo el núcleo falla.
+- MICROKERNEL
+	Más lento debido a que se comunica con paso de mensajes.
+	Más fácil agregar nuevas funcionalidades.
+	Requiere más íneas de código.
+Existen otros dos: Kernel híbrido y Nanokernel.
+--------------------------------------------------------------------------
+Llamadas del sistemas
+Es la manera en la cual un programa solicita una acción al sistema operativo con el que interactúa.
+
+Clasificación de las llamadas de acción:
+- Gestión de control: Supervisa todo el proceso.
+- Gestión de archivos: Creación, eliminación, apertura, escritura y lectura de archivos.
+- Gestión de dispositivos: Administra los recursos disponibles, como ser el almacenamiento.
+- Comunicación entre procesos: Coordina la interacción entre los distintos procesos y aplciaciones.
