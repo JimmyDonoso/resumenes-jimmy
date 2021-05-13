@@ -1,0 +1,30 @@
+PROCESOS
+- Ejecución de un programa o instruccion.
+- Los proceson se ejecutan uno a la vez.
+- Los procesos NO se almacenan en la memoria principal, son efimeros.
+
+ESTADOS:
+1. Nuevo
+2. Listo
+3. Ejecución
+4. Bloqueado
+5. Salida
+------------------------------------------------------
+
+COMUNICACIÓN EN PROCESOS
+
+Procesos Inependientes: Son autonomos
+Procesos Cooperativos: Pueden afectar a otros procesos y pueden ser afectos por otros.
+
+--------------------------------------------------------
+SINCRONIZACIÓN DE PROCESOS
+
+Semaforos: Mientras un proceso termina el siguiente pasa a una lista de "espera", luego de "bloqeuado" hasta que un nuevo proceso la indica que "avance".
+Área Crítica: Esto ocurre cuando se forma una cola de procesos pendientes, la solución a esto son los métodos de planificación.
+
+-----------------------------------------------------------
+MÉTODOS DE PLANIFICACIÓN
+-FIFO: First in, First Out
+-SJF: Shortest Job First, se ejecuta primero el que posea menor tiempo de ejecución.
+-SRTF: Shortest Ramaining Time, se interrumpe el proceso si llega uno de menor tiempo. 
+-Round Robin:Son por ciclos de ejecución equitativos, hasta que todos terminen.
