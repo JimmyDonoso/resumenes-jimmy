@@ -1,0 +1,26 @@
+﻿Microdesafío
+
+
+
+
+Empresa emergente  dedicada a la venta de productos fertilizantes para campos, con una capacidad financiera acotada, todos sus empleados trabajan on site y están dispuesto  a recibir capacitación, poseen actualmente dos personas encargadas de sistemas, las cuales manejan información sensible, pero que todos los usuarios pueden ver (no es política de la empresa), no realizan copias de información porque no las creen convenientes. Poseen una página web donde hay catálogos y los clientes pueden hacer compras a través de la misma.
+
+
+
+
+1. Hacer un análisis de la situación actual de cada empresa que nos toque.
+La empresa dedicada a la venta de fertilizantes para campo cuenta varias áreas que son vulnerables:
+* Problema a: No realizan copias de seguridad de la información, y como consecuencia podrían ser hurtados, alterados o infectados. 
+* Problema b: Todos los usuarios tienen acceso a información sensible
+* Problema c:Poseen una página web en la que los clientes realizan compras y registran sus datos de pago
+2. Para cada escenario planteado, crear un plan de seguridad 
+   1. Seguridad lógica:
+      1. Solución b: Se realizará un CONTROL DE ACCESO, para controlar quienes pueden acceder a la información mediante el uso de usuarios y contraseñas.
+   2. Seguridad física:
+      1. Solución a: Como los datos son los activos más importantes dentro de una empresa, es super importante realizar BACKUPS de todos los datos de la empresa. 
+   3. Seguridad pasiva:
+      1. La realización de copias de seguridad de los datos en más de un dispositivo y/o en distintas ubicaciones físicas.
+      2. Escanear y limpiar continuamente los equipos para controlar y evitar ataques de malware.
+   4. Seguridad activa
+      1. Uso de software de seguridad informática, como antivirus, antiespías y cortafuegos.
+3. Este plan debe ser de 6 pasos e incluir, seguridad lógica, física, pasiva, activa y controles de medida de seguridad, y de vulnerabilidades que podrían explotar los atacantes
