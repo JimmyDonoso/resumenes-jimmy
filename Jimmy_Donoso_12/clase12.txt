@@ -1,0 +1,46 @@
+REDES
+Conjunto de dispositivos independientes capaces de comunicarse electrónicamente entre sí, compartir recursos e intercambiar información de todo tipo. Las redes se clasifican de múltiples formas.
+
+Con relación a su extensión geográfica:
+
+- LAN: (Local Área Network o Red de Área Local). Red de dispositivos conectados con un alcance menor a los 5 km. Son redes pequeñas que abarcan una corta extensión geográfica, habituales en casas, oficinas y organizaciones pequeñas..
+- MAN: (Metropolitan Área Network o Red de Área Metropolitana). Posee un alcance de hasta 60 km porque consiste en la interconexión de varias redes LAN en una zona geográfica específica.
+- WAN: (Wide Área Network o Red de Área Amplia). Se considera como redes de área amplia a todas aquellas que cubren una extensa área geográfica, requieren atravesar rutas de acceso público y utilizan, al menos parcialmente, circuitos proporcionados por una entidad proveedora de servicios de telecomunicación. El tamaño de esta red puede oscilar entre los 100 y los 1.000 km.
+
+Por el método físico que emplea para su conexión:
+
+- Medios guiados: Enlazan los dispositivos mediante sistemas físicos de cable, como par trenzados, coaxiales o fibra óptica. La ventaja de esto es que pierden menos señal y existen menos ruidos, en cambio, la desventaja está dada por la incomodidad que resulta toda su instalación en cada área.
+- Redes de medios no guiados: su conexión se establece mediante sistemas dispersos y de alcance de área, como ondas de radio, señal infrarroja o microondas —por ejemplo, los sistemas satelitales y el wifi—. Son un poco más lentas, pero mucho más cómodas y prácticas.
+
+En relación a su grado de autenticación:
+
+- Red Privada: Solo puede ser usada por algunas personas que cuenten con la clave de acceso personal con la que esté configurada.
+- Red Pública: Puede ser utilizada por cualquier persona ya que no requiere una clave para poder acceder a ella.
+
+Por su grado de difusión: 
+
+- Intranet: Red privada de ordenadores que utiliza tecnología de Internet para compartir dentro de una organización parte de sus sistemas de información y sistemas operacionales.
+- Extranet: Red privada que se utiliza para compartir de forma segura parte de la información propia de una organización con proveedores, compradores, socios, clientes o cualquier otro negocio u organización.
+- Internet: Es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, garantizando que las redes físicas heterogéneas que la componen funcionen como una red lógica única, de alcance mundial.
+
+MEDIOS DE TRANSMISIÓN
+**MEDIOS GUIADOS**
+
+Están constituidos por cables que se encargan de la conducción de las señales desde un extremo a otro. La velocidad de transmisión depende directamente de la distancia entre las terminales.
+
+- Pares trenzados: Conjunto de pares de hilos de cobre conductores, cruzados entre sí. La forma trenzada del cable se utiliza para reducir la interferencia eléctrica con respecto a los pares cercanos que se encuentran a su alrededor. La velocidad máxima de transmisión es de 1 Gbps y la distancia entre repetidores es de 2 a 10 km.
+
+- Cable coaxial: Tiene un alambre de cobre duro en su parte central. La velocidad máxima de transmisión es de 2 Gbps y la distancia entre repetidores es de 10 a 100 km. Coaxial es analógica
+
+- Fibra óptica: Es un enlace hecho con un hilo muy fino de material transparente y recubierto de un material opaco que evita que la luz se disipe. Por el núcleo, es una hebra fina hecha de vidrio o plásticos, se envían pulsos de luz, no eléctricos. La velocidad máxima de transmisión es mayor a 10 Gbps y la distancia entre repetidores es mayor a 100 km. Fibra óptica= digital(Aces de luz)
+
+**MEDIOS NO GUIADOS**
+
+La transmisión y la recepción de información se lleva a cabo por antenas. A la hora de transmitir, la antena irradia energía electromagnética en el medio y la antena lo recepciona cuando capta las ondas electromagnéticas del medio que la rodea.
+
+- Señales de Bluetooth: Hacen posible la transmisión de los datos mediante un enlace por radiofrecuencia.
+
+- Señales de infrarrojo: Son ondas direccionales incapaces de atravesar objetos sólidos.
+
+- Señales de wifi: Permiten la interconexión inalámbrica de dispositivos electrónicos.
+   

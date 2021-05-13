@@ -1,0 +1,28 @@
+Los escritorios remotos son programas que nos permiten acceder e interactuar con una computadora a distancia a través de una conexión  de internet.
+
+Lo cual nos permite trabajar desde cualquier parte, nuestra casa, otra oficina, un bar, desde donde los necesitemos.
+
+La computadora a la que se accede de forma remota, se le reconoce como HOST mientras que la computadora desde donde vamos a trabajar la llamamos CLIENTE, aquí cabe aclarar que varios CLIENTES pueden acceder a un mismo HOST.
+
+Los únicos requisitos para poder hacer uso de esta herramienta son:
+
+- Tener acceso a internet
+- Que ambas computadoras tengan la misma aplicación de escritorio remoto
+- Que ambas computadoras estén encendidas en simultáneo.
+
+Programas:
+
+- TeamViewer
+- AnyDesk
+- Zoho Assist
+
+Ventajas:
+
+- Ahorro de recursos
+- Mejor calidad de vida, al no tener que gastar tiempo y dinero al desplazarnos hacia los puestos de trabajo.
+- Mayor productividad, al ahorrar espacios de trabajo para los empleados.
+
+Desventajas:
+
+- Podemos ser objeto de CIBERATAQUES
+- El rendimiento del sistema depende de la calidad de la conexión a internet
