@@ -1,0 +1,15 @@
+﻿Micro desafíos 
+
+
+Deberán leer cada una de las noticias asignadas y responder en un documento (ustedes deben abrirlo) las siguientes consignas:
+
+
+https://thehackernews.com/2021/04/1-click-hack-found-in-popular-desktop.html 
+
+
+* ¿Qué tipo de amenaza es?
+        En el artículo se relata vulnerabilidades en aplicaciones de escritorio populares (Telegram, Nextcloud, VLC, LibreOffice, OpenOffice, Bitcoin / Dogecoin Wallets, Wireshark y Mumble) que permite que un nuevo hack de sistema se desenlace mediante clicks, a la cual definimos se trata de un troyano.
+* ¿Cómo comienza y cómo se propaga esta amenaza?
+Comienza utilizando aplicaciones de escritorio que utiliza una URL (con fallas en la validación de las mismas) que cuando se abre, redirecciona a un enlace que apunta a un software malicioso.
+* ¿Hay más de una amenaza aplicada ?
+Según lo interpretado en el artículo, consideramos que no hay más de una amenaza implicada.

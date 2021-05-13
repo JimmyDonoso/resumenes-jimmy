@@ -1,0 +1,36 @@
+Ciberseguridad
+La seguridad informática se enfoca en la protección de la infraestructura computacional y todo lo vinculado con la misma, especialmente, en la información que se transmite a través de las redes de computadoras. 
+
+TIPOS DE MALWARE:
+-Virus
+-Gusano
+-Troyanos
+-Adwares
+-Spywares
+-Rootkits
+-Botnets
+-Ransomware
+
+PROTECCIÓN DE LA INFORMACIÓN
+La información es recurso clave para tomar decisiones, dimensionar cosas, y disminuir riesgos. La misma cuenta con tres dimensiones conocidas como: integridad, disponibilidad y confidencialidad, también llamadas CIA por sus siglas en inglés. Los atacantes de un sistema van a tratar de vulnerar algunas de esas dimensiones. 
+
+PROTECCIÓN DE LA CONFIDENCIALIDAD
+Algunas técnicas para asegurar la confiabilidad pueden ser: Emcriptación, Controloes de acceso, Borrado remoto, Capacitación al personal
+
+PROTECCIÓN A LA INTEGRIDAD
+Algunas técnicas para asegurar la integridad pueden ser: Auditorias, El control de versiones, Firmas digitales, Detección de intrusos
+
+PROTECCIÓN A LA DISPONIBILIDAD
+Algunas técnicas para asegurar la disponibilidad pueden ser: Tolerancia a fallos, Redudancia, Parches de seguridad
+
+---------------------------
+
+FALLAS
+
+Una falla, también conocida como bug, es un error en un programa o sistema operativo que desencadena un resultado indeseado.
+
+TIPOS DE FALLAS:
+-Heisenbug: aquellos bugs que alteran o desaparecen su comportamiento al tratar de depurarlos.
+-Bohrbug: produce una falla al reiniciar la operación que causó la falla.
+-Mandelbug:  es un fallo con causas tan complejas que su comportamiento es totalmente caótico.
+-Schroedinbugs: Son errores que no aparecen hasta que alguien lee el código y descubre que, en determinadas circunstancias, el programa podría fallar. A partir de ese momento, el  “Schroedinbug” comienza aparecer una y otra vez.
