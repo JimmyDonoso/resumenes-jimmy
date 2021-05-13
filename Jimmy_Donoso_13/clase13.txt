@@ -1,0 +1,29 @@
+PROTOCOLOS
+El protocolo de Internet, conocido por sus siglas en inglés IP —Internet Protocol—, es el protocolo principal de la familia de protocolos de Internet y su importancia es fundamental para el intercambio de mensajes en redes informáticas. Es decir, son normas que nos van a regir el intercambio de información a través de una red de computadoras o dispositivos.
+El protocolo IP identifica cada dispositivo que se encuentre conectado a la red mediante su correspondiente dirección IP. La dirección IP se utiliza para identificar de manera unívoca tanto al dispositivo como a la red a la que pertenece, dividiéndose así en dos partes:
+
+Una dirección que identifica la red.
+Una dirección que identifica al dispositivo dentro de esa red.
+
+*IP:
+IP —Internet Protocol, en inglés— es un protocolo de comunicación de datos digitales clasificado funcionalmente en la capa de red —que es la que nos proporciona conectividad y la selección de ruta entre dos sistemas hosts—.
+
+*TCP Protocolo de control de transmisión TCP:
+El TCP —Transmission Control Protocol, en inglés— garantiza que los datos sean entregados al lugar de destino, sin ningún error y en el mismo orden que se transmitieron. 
+
+*DNS: 
+El sistema de nombres de dominio —DNS, en inglés Domain Name System—, es un sistema de nomenclatura jerárquico descentralizado para dispositivos conectados tanto a Internet como a redes privadas, que asocia información con el nombre del dominio.
+
+*TCP/IP:
+El TCP/IP —protocolo de control de transmisión/protocolo de Internet— consiste en una combinación de los protocolos previamente mencionados y son la piedra angular de las redes informáticas modernas.
+
+*UDP:
+El protocolo de datagramas de usuario —UDP, en inglés User Datagram Protocol— es un protocolo del nivel de transporte basado en el intercambio
+de datagramas —un datagrama es un paquete de datos y un paquete de datos es cada uno de los bloques en que se divide la información para enviaR.
+
+*HTTP:
+El protocolo de transferencia de hipertexto —HTTP, en inglés Hypertext Transfer Protocol— es un protocolo orientado a transacciones y sigue el esquema petición-respuesta entre un cliente y un servidor. El cliente
+—normalmente un navegador web— realiza una petición enviando un mensaje, con cierto formato al servidor. 
+
+*HTTPS:
+El protocolo seguro de transferencia de hipertexto —en inglés, Hypertext Transfer Protocol Secure o HTTPS— está destinado a la transferencia segura de datos de hipertexto.
